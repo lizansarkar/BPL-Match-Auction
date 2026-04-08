@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "role": "Batsman",
+    "battingStyle": "Right-Hand-Bat",
+    "price": 1500000,
+    "rating": 4.9,
+    "image": "https://i.ibb.co.com/20Wggw2G/Virat-Kohli.webp"
+  },
+  {
+    "id": 2,
+    "name": "Steve Smith",
+    "country": "Australia",
+    "role": "Batsman",
+    "battingStyle": "Right-Hand-Bat",
+    "price": 1300000,
+    "rating": 4.6,
+    "image": "https://i.ibb.co.com/LDtstLj0/Steve-Smith.webp"
+  },
+  {
+    "id": 3,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "battingStyle": "Right-Hand-Bat",
+    "price": 1250000,
+    "rating": 4.7,
+    "image": "https://i.ibb.co.com/mF28RXFQ/Kane-Williamson.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Joe Root",
+    "country": "England",
+    "role": "Batsman",
+    "battingStyle": "Right-Hand-Bat",
+    "price": 1100000,
+    "rating": 4.5,
+    "image": "https://i.ibb.co.com/9kb9g9Hh/Joe-Root.png"
+  },
+  {
+    "id": 5,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "battingStyle": "Right-Hand-Bat",
+    "price": 1400000,
+    "rating": 4.8,
+    "image": "https://i.ibb.co.com/VsPwHKh/Babar-Azam.png"
+  },
+  {
+    "id": 6,
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "role": "All-Rounder",
+    "battingStyle": "Left-Hand-Bat",
+    "price": 1000000,
+    "rating": 4.6,
+    "image": "https://i.ibb.co.com/wF7HvF75/Shakib-Al-Hasan.webp"
+  },
+  {
+    "id": 7,
+    "name": "Ben Stokes",
+    "country": "England",
+    "role": "All-Rounder",
+    "battingStyle": "Left-Hand-Bat",
+    "price": 1250000,
+    "rating": 4.5,
+    "image": "https://i.ibb.co.com/XZxXBHHK/Ben-Stokes.png"
+  },
+  {
+    "id": 8,
+    "name": "Hardik Pandya",
+    "country": "India",
+    "role": "All-Rounder",
+    "battingStyle": "Right-Hand-Bat",
+    "price": 950000,
+    "rating": 4.3,
+    "image": "https://i.ibb.co.com/sdjqz5dT/Hardik-Pandya.png"
+  },
+  {
+    "id": 9,
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "role": "Bowler",
+    "battingStyle": "Right-Hand-Bat",
+    "price": 900000,
+    "rating": 4.7,
+    "image": "https://i.ibb.co.com/rYqTfqt/Rashid-Khan.png"
+  },
+  {
+    "id": 10,
+    "name": "Mitchell Starc",
+    "country": "Australia",
+    "role": "Bowler",
+    "battingStyle": "Left-Hand-Bat",
+    "price": 1100000,
+    "rating": 4.4,
+    "image": "https://i.ibb.co.com/7tGRphBY/Mitchell-Starc.png"
+  },
+  {
+    "id": 11,
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "role": "Bowler",
+    "battingStyle": "Right-Hand-Bat",
+    "price": 1050000,
+    "rating": 4.5,
+    "image": "https://i.ibb.co.com/9k2YQKwv/Trent-Boult.webp"
+  },
+  {
+    "id": 12,
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "role": "Bowler",
+    "battingStyle": "Right-Hand-Bat",
+    "price": 1200000,
+    "rating": 4.8,
+    "image": "https://i.ibb.co.com/BhTZdJ9/1532.png"
+  }
+]
